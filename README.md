@@ -1,3 +1,7 @@
+> This repository demonstrates how to enable Turbopack while using StyleX.
+> 
+> This is a quick and dirty demo and the latest code for the  PostCSS Plugin is available on [this repository](https://github.com/javascripter/expo-stylex-postcss-integration/) instead.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
