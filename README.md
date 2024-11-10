@@ -1,6 +1,9 @@
-> This repository demonstrates how to enable Turbopack while using StyleX.
-> 
-> This is a quick and dirty demo and the latest code for the  PostCSS Plugin is available on [this repository](https://github.com/javascripter/expo-stylex-postcss-integration/) instead.
+> This repository demonstrates how to leverage Turbopack while using React Strict
+> DOM/StyleX in Next.js.
+
+> The PostCSS Plugin is available under
+> [postcss-react-strict-dom](https://github.com/javascripter/postcss-react-strict-dom)
+> repository.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
