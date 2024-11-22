@@ -1,9 +1,4 @@
-> This repository demonstrates how to leverage Turbopack while using React Strict
-> DOM/StyleX in Next.js.
-
-> The PostCSS Plugin is available under
-> [postcss-react-strict-dom](https://github.com/javascripter/postcss-react-strict-dom)
-> repository.
+> A better more production-ready demo has been moved to https://github.com/javascripter/nextjs-react-strict-dom-demo
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
